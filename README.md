@@ -38,7 +38,7 @@
 
 ✔ Заведен багрепорт
 
-[<img src="https://www.gstatic.com/images/branding/product/1x/docs_2020q4_48dp.png" title="Нажми меня" alt="Google Dosc" width="50" height="50" style="max-width: 100%;">](https://docs.google.com/document/d/1yC0fuAM4ExIh1UdqaSSbgw4DJBA2U8_DwdHgcjwaJkM/edit?usp=sharing)
+[<img src="https://www.gstatic.com/images/branding/product/1x/docs_2020q4_48dp.png" title="Нажми меня" alt="Google Dosc" width="50" height="50" style="max-width: 100%;">](https://docs.google.com/document/d/1yC0fuAM4ExIh1UdqaSSbgw4DJBA2U8_DwdHgcjwaJkM/edit?usp=sharing) или [<img src="https://github.com/qajenna/qajenna/raw/main/icons/Jira.png" title="Нажми меня" alt="Jira" width="50" height="50" style="max-width: 100%;">](https://github.com/ViktoryiaKaplunHryts/21vek.by/blob/main/bug%20report%20jira.png)
 
 ✔ Написаны автотесты по авторизации на сайте
 
